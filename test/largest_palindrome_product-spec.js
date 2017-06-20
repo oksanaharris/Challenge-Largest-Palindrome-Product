@@ -16,7 +16,7 @@ describe("Find The Largest Palindrome Product", function () {
   it("of two 3 digit numbers", function () {
     var product = findPalindromeProduct(3);
 
-    expect(product.palindromeNumber).to.equal(906609);
+    expect(product.palindromeNumber).to.equal(90909);
 
     // add your tests here
     //
